@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Chango&display=swap');
+body{
+    font-family: 'Chango', cursive;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+a{
+    margin: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-size: 6em;
+    letter-spacing: 10px;
+}
+h2{
+    font-size: 4em;
+}
+h3{
+    font-size: 2em;
+}
+h4{
+    font-size: 2em;
+    font-weight: 400;
+}
+header{
+    color: white;
+    background:grey;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+}
+section,p,img{
+    padding: 10px;
+}
+.cartoons{
+    color: white;
+    padding: 70px;
+}
+#myheroacademia{
+    background-color: darkgreen;
+}
+#kipoandtheageofthewonderbeasts{
+    background-color: purple;
+}
+#attackontitan{
+    background-color: brown;
+}
+img{
+    border: 5px solid white;
+    width: 250px;
+    height: 200px;
+}
